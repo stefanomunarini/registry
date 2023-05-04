@@ -9,6 +9,14 @@ stakeholders:
           - label: email
             value: anton@strogonoff.name
   - role: owner
+    name: Stefano
+    gitServerUsername: stefanomunarini
+    parties:
+      - name: Stefano
+        contacts:
+          - label: email
+            value: stefano@munari.ni
+  - role: owner
     name: Ronald Tse
     gitServerUsername: ronaldtse
     parties:
