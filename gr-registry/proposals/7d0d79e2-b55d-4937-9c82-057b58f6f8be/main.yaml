@@ -1,8 +1,13 @@
 id: 7d0d79e2-b55d-4937-9c82-057b58f6f8be
 timeStarted: 2023-05-04T08:02:52.031Z
-timeEdited: 2023-05-04T08:04:43.430Z
+timeEdited: 2023-05-04T08:08:06.511Z
 justification: 'Yes'
 submittingStakeholderGitServerUsername: stefanomunarini
-items: {}
+items:
+  /crs--projected/57f718d3-ef6e-4a05-8d4d-d287e1d2bb9f.yaml:
+    type: amendment
+    amendmentType: supersession
+    supersedingItemIDs:
+      - 0654359e-3606-414b-94e1-b3c39307ed26
 state: draft
 registerVersion: '1.1'
