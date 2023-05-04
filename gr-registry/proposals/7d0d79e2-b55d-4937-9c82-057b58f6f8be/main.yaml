@@ -1,6 +1,6 @@
 id: 7d0d79e2-b55d-4937-9c82-057b58f6f8be
 timeStarted: 2023-05-04T08:02:52.031Z
-timeEdited: 2023-05-04T08:09:47.021Z
+timeEdited: 2023-05-04T08:13:30.730Z
 justification: 'Yes'
 submittingStakeholderGitServerUsername: stefanomunarini
 items:
@@ -12,5 +12,7 @@ items:
       - 03045115-4fcc-4983-867e-d97fa32cabd3
   /coordinate-sys--cartesian/618628cb-4ec1-4da9-aad0-e902078e0778.yaml:
     type: clarification
+  /coordinate-op-parameter/0fa8e56f-b623-499a-9c80-deed3748c745.yaml:
+    type: addition
 state: draft
 registerVersion: '1.1'
