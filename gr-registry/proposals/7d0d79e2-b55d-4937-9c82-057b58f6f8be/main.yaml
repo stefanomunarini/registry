@@ -14,6 +14,7 @@ items:
     type: clarification
   /coordinate-op-parameter/0fa8e56f-b623-499a-9c80-deed3748c745.yaml:
     type: addition
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.1'
 timeProposed: 2023-05-04T08:25:41.365Z
+registerManagerNotes: ''
