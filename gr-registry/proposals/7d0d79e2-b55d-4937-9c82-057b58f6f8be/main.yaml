@@ -1,6 +1,6 @@
 id: 7d0d79e2-b55d-4937-9c82-057b58f6f8be
 timeStarted: 2023-05-04T08:02:52.031Z
-timeEdited: 2023-05-04T08:08:49.407Z
+timeEdited: 2023-05-04T08:09:47.021Z
 justification: 'Yes'
 submittingStakeholderGitServerUsername: stefanomunarini
 items:
@@ -10,5 +10,7 @@ items:
     supersedingItemIDs:
       - 0654359e-3606-414b-94e1-b3c39307ed26
       - 03045115-4fcc-4983-867e-d97fa32cabd3
+  /coordinate-sys--cartesian/618628cb-4ec1-4da9-aad0-e902078e0778.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.1'
